@@ -24,7 +24,7 @@ const CONFIG = {
   scriptFormUrl: "https://script.google.com/macros/s/AKfycbzGO9-pZizlA5PNOcpAsl-FB06Ja4QVMWF5G8DxqvhZidZeBM_-FzrdSQraoIWhN6fUfQ/exec",
 
   // --- AUDIO ---
-  archivoAudio: "./abcd.mp3",
+  archivoAudio: "./MUCHACHOS.mp3",
 
   // --- COLORES ---
   colores: {
